@@ -1,0 +1,2 @@
+# SpringCloudConfigRepository
+SpringCloudConfig使用的配置仓库
